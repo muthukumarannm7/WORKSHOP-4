@@ -73,7 +73,8 @@ else:
 
 ### OUTPUT
 
-<img width="1215" height="587" alt="image" src="https://github.com/user-attachments/assets/d1cb39d3-cc7f-41d3-ad55-6975e926cec7" />
+<img width="1292" height="456" alt="image" src="https://github.com/user-attachments/assets/2f8bc823-4b72-4b97-8d81-53423451ccaa" />
+
 
 ### RESULT:
 Thus , the workshop has been implemented successfully.
